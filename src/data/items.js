@@ -40,7 +40,7 @@ export default [
 	},
 	{
 		name: "Miner's Pickaxe",
-		skills: [skills.mining],
+		skills: [skills.mining, skills.stonemasonry],
 		hardness: 1,
 		preciousness: 0.9,
 		resilience: 1,

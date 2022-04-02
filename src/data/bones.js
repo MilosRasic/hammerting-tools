@@ -20,4 +20,11 @@ export default [
 		resilience: 1,
 		weight: 1,
 	},
+	{
+		name: 'Spider Leg',
+		hardness: 3,
+		preciousness: 5,
+		resilience: 5,
+		weight: 3,
+	}
 ];
